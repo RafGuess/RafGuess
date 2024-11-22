@@ -22,7 +22,7 @@ Bien que je n'ai pas énormément d'expérience à mon actif, je suis détermin�
 
 <h3>Mes projets</h3>
 <ul>
-    <li></li>
+    <li>Logiciel capable de prendre des entrées et vérifier leur correspondance à 5 types d'automate (avec menu interactif), <a href="https://github.com/RafGuess/PIF1006---Projet-de-session" target="_blank">ici.</a></li>
     <li></li>
     <li></li>
     <li></li>
