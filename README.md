@@ -65,7 +65,7 @@ Although I don't have extensive experience under my belt, I am determined to lea
     </summary>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,anaconda" />
-        <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,java,mysql" /><br>
+        <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,java,mysql,flask" /><br>
     </div>
 </details>
 
