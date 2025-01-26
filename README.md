@@ -16,19 +16,17 @@ Bien qu'au cour de mon cursus, plusieurs pratiques m'ont été proposée, j'ai p
 
 Je suis aussi détenteur d'un certificat en analyse de données, offert par Google Inc. à travers la plateforme coursera, ce qui m'a permis de me familiariser avec des notions importantes telles que la pensée analytique, la prise de décision orientée-données, la préparation de données à l'exploration, leur nettoyage, leur analyse en considérant des questions spécifiques, leur partage à l'aide visualisations, ainsi qu'une prise en main de l'outil R qui a renforcé mon appréciation du domaine.
 
-J'ai aussi énormément apprécié mes cours de développement Web et Mobile, c'est ce qui m'a poussé à lancer un <a href="https://mathisboisvert.ca/index.html" target="_blank">projet portfolio</a> pour un proche, qui doit lui permettre de showcase ses connaissances et expériences dans le domaine de la biologie.
+J'ai aussi énormément apprécié mes cours de développement Web à travers plusieurs projets dont un pour un proche, qui doit lui permettre de showcase ses connaissances et expériences dans le domaine de la biologie.
     
 Bien que je n'ai pas énormément d'expérience à mon actif, je suis déterminé à apprendre et décidé à avancer le plus vite possible!
 
 <h3>Mes projets</h3>
 <ul>
+    <li><code>HTML</code> Site Web intéractif pour un étudiant en Biologie-Écologie, mettant en évidence ses compétences, ses expériences, et les différentes observations qu'il a fait sur le site INaturalist, qui se mettent à jour automatiquement grâce à un API qui me donne accès à la base de données de la plateforme. Vous pouvez voir, <a href="https://mathisboisvert.ca/" target="_blank">ici</a>, la version live de celui-ci.</li>
     <li><code>C#</code> Logiciel capable de prendre des entrées et vérifier leur correspondance à 5 types d'automate (avec menu interactif), <a href="https://github.com/RafGuess/PIF1006---Projet-de-session" target="_blank">ici.</a></li>
     <li><code>Python</code> Étude de données EEG résultants d'une étude visant à déterminer si elles pouvaient être révélatrices d'une dépression chez les sujets de l'étude, <a href="https://github.com/RafGuess/SDD1002-TP2" target="_blank">ici.</a></li>
     <li><code>Python</code> Étude visant à déterminer si les résultats du Narcissitic Personnality Inventory (NPI) présentent une corrélation avec le genre, l'âge ou le temps de réponse sujets de l'expérience, <a href="https://github.com/RafGuess/SDD1002-TP1" target="_blank">ici.</a></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li><code>Python & HTML</code> Création d'une page web permettant de naviguer à travers et modifier une base de données sur MongoDB, ainsi que d'appliquer sur celles-ci des algorithmes d'apprentissage machine (KNN, forêts aléatoires, arbre de décision). Vous pouvez retrouver ce projet <a href="https://github.com/RafGuess/SDD1003-Projet_Final" target="_blank">ici.</a></li>
 </ul>
 </details>
 
@@ -43,19 +41,17 @@ Although I was offered several practical experiences during my curriculum, I par
 
 I also hold a data analysis certificate, offered by Google Inc. through the Coursera platform, which allowed me to familiarize myself with important concepts such as analytical thinking, data-driven decision making, preparing data for exploration, cleaning data, analyzing it while considering specific questions, sharing it using visualizations, as well as getting hands-on experience with R which strengthened my appreciation for the field.
 
-I also greatly enjoyed my Web and Mobile development courses, which prompted me to launch a <a href="https://mathisboisvert.ca/index.html" target="_blank">portfolio project</a> for a close friend, which should allow them to showcase their knowledge and experiences in the field of biology.
+I also greatly enjoyed my Web development courses, which prompted me to work on a website for a friend that allows them to showcase their knowledge and experiences in the field of biology.
 
 Although I don't have extensive experience under my belt, I am determined to learn and decided to move forward as quickly as possible!
 
 <h3>My projects</h3>
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li><code>HTML</code> Interactive website for a Biology-Ecology student, highlighting their skills, experiences, and various observations made on the iNaturalist site, which are automatically updated thanks to an API that provides access to the platform's database. You can see the live version <a href="https://mathisboisvert.ca/" target="_blank">here</a>.</li>
+    <li><code>C#</code> Software capable of taking inputs and verifying their correspondence to 5 types of automata (with interactive menu), <a href="https://github.com/RafGuess/PIF1006---Projet-de-session" target="_blank">here</a>.</li>
+    <li><code>Python</code> Study of EEG data resulting from a study aimed at determining if they could be indicative of depression in the study subjects, <a href="https://github.com/RafGuess/SDD1002-TP2" target="_blank">here</a>.</li>
+    <li><code>Python</code> Study aimed at determining if the results of the Narcissistic Personality Inventory (NPI) show a correlation with gender, age, or response time of the experiment subjects, <a href="https://github.com/RafGuess/SDD1002-TP1" target="_blank">here</a>.</li>
+    <li><code>Python & HTML</code> Creation of a web page allowing navigation through and modification of a MongoDB database, as well as applying machine learning algorithms (KNN, random forests, decision tree) to it. You can find this project <a href="https://github.com/RafGuess/SDD1003-Projet_Final" target="_blank">here</a>.</li>
 </ul>
 </details>
 
