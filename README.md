@@ -5,7 +5,7 @@
 </h1>
 
 <h3>CV</h3>
-[Cliquez Ici](https://github.com/utilisateur/repo/releases/download/v1.0/mon_ebook.epub)
+<a href="https://github.com/RafGuess/RafGuess/blob/main/CV%20-%20Abderraouf%20Guessoum.pdf"_blank">Cliquez ici!</a>
 
 
 <details open>
