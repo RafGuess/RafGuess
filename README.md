@@ -4,6 +4,10 @@
     </a>
 </h1>
 
+<h3>CV</h3>
+[Cliquez Ici](https://github.com/utilisateur/repo/releases/download/v1.0/mon_ebook.epub)
+
+
 <details open>
     <summary>
         <h2>Français 🇫🇷</h2>
